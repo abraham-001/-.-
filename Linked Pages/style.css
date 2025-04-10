@@ -1,14 +1,17 @@
 html, body {
     height: 100%;
     margin: 0;
+    font-size: 2vw;
   }
 
 body {
     display: flex;
     justify-content: center;
     align-items: center;
+      font-size: 2vw;
   }
 
 p {
   color: red;
+      font-size: 2vw;
 }
