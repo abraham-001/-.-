@@ -3,7 +3,7 @@ html, body {
     display: flex; /* Apply Flexbox */
     justify-content: center; /* Center horizontally */
     align-items: center;
-    font-size: 24px; 
+    font-size: 12px; 
     
   }
 
